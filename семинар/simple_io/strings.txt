@@ -1,0 +1,2 @@
+String containing four words
+String that contains five or more words
